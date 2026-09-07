@@ -1,3 +1,5 @@
+![Portfolio Preview](portfolio-preview.png)
+
 # 💻 Anil Kumar Parida — Portfolio
 
 Welcome to my personal portfolio website.
